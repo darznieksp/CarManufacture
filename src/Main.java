@@ -4,7 +4,7 @@ public class Main {
         manufactureCar(4, 3);
         manufactureCar(8, 3);
         manufactureCar(9, 3);
-        manufactureCar(110, 3);
+        manufactureCar(10, 3);
 
     }
 
